@@ -1,0 +1,4 @@
+.ImageList {
+  display: flex;
+  flex-wrap: wrap;
+}

@@ -1,0 +1,36 @@
+.ImageElementRoot {
+  margin: 10px;
+  width: 250px;
+  display: inline-block;
+  box-shadow: 3px 3px 3px rgb(32, 34, 37);
+  line-height: 0;
+}
+
+.ImageElementImg {
+  width: 250px;
+  font-weight: bold;
+  border-radius: 3px 3px 0 0;
+}
+
+.ImageElementTitle {
+  margin-top: 5px;
+  color: white;
+  text-align: left;
+  padding-left: 10px;
+  font-size: 14px;
+  line-height: 14px;
+}
+
+.ImageElementControls {
+  background-color: rgb(72,74,80);
+  padding: 5px 0;
+  border-radius: 0 0 3px 3px;
+}
+
+.ImageElementButtons p {
+  color: rgb(141 144 151);
+  font-size: 12px;
+  line-height: 12px;
+  display: inline-block;
+  margin: 0 10px 10px 10px;
+}
